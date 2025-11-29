@@ -1,2 +1,2 @@
 // Frontend plugin JS
-console.log("Plugin version 4.0.1");
+console.log("Plugin version 4.0.2");

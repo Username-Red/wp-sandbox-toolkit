@@ -3,7 +3,7 @@
  * Plugin Name: wp-sandbox-toolkit
  * Plugin URI:  https://github.com/Username-Red/wp-sandbox-toolkit
  * Description: A custom plugin boilerplate for adding scripts, styles, and future functionality.
- * Version:     4.0.1
+ * Version:     4.0.2
  * Author:      Jared Greeff
  * Author URI:  https://github.com/Username-Red
  * License:     GPL2
