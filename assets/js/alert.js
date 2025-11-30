@@ -1,1 +1,1 @@
-alert('it is now working')
+console.log("Plugin Version:", window.wpSandboxToolkit?.version);
