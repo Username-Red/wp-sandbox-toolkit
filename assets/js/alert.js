@@ -1,2 +1,2 @@
-alert('it is now working')
-alert('this is the second alert')
+//alert('it is now working')
+//alert('this is the second alert')
