@@ -142,6 +142,7 @@ add_action( 'init', 'my_custom_plugin_custom_function' );
  * Gravity Forms webhook
  */
 function my_custom_plugin_send_form_to_webhook( $entry, $form ) {
+	error_log( 'wp-sandbox-toolkit loaded successfully' );
 
 	$data = array();
 	foreach ( $form['fields'] as $field ) {
